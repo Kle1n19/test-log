@@ -1,4 +1,5 @@
 # FastAPI Image Processing Application
+Read full task in Test_assignment.pdf file.
 
 ## Requirements
 
